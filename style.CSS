@@ -1,0 +1,18 @@
+.container{width:1200px;margin:0 auto;}
+.red{border:1px }
+#text{height: 50px;max-width: 100%;}
+#top{min-height: 100px;max-width: 100%;}
+#slider{min-height: 400px;max-width: 100%;}
+#foot{min-height: 100px;max-width: 100%;}
+#map{min-height: 200px;max-width: 100%; }
+
+.flexbox{
+    margin-left:400px;
+    margin-right: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+  }
